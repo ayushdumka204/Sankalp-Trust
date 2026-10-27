@@ -65,7 +65,7 @@ function Logo({ light = false }: { light?: boolean }) {
     <a href="#home" className="group flex items-center gap-3" aria-label="Sankalp Trust home">
       <span className="grid size-10 place-items-center overflow-hidden rounded-full bg-[#FAF9F5] shadow-sm ring-1 ring-black/5">
         <img
-          src="/Raised%20Fist%20Emblem%20with%20Colorful%20Arcs.png"
+          src="/raised-fist-emblem.png"
           alt=""
           className="size-full object-cover transition-transform duration-300 group-hover:scale-105"
         />

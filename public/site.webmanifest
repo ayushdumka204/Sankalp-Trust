@@ -8,7 +8,7 @@
   "theme_color": "#174D3A",
   "icons": [
     {
-      "src": "/Raised%20Fist%20Emblem%20with%20Colorful%20Arcs.png",
+      "src": "/raised-fist-emblem.png",
       "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
