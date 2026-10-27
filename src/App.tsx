@@ -63,12 +63,12 @@ function Eyebrow({ children, light = false }: { children: ReactNode; light?: boo
 function Logo({ light = false }: { light?: boolean }) {
   return (
     <a href="#home" className="group flex items-center gap-3" aria-label="Sankalp Trust home">
-      <span
-        className={`grid size-10 place-items-center rounded-full border ${
-          light ? 'border-white/25 text-white' : 'border-[#174D3A]/20 text-[#174D3A]'
-        }`}
-      >
-        <Leaf className="size-4 transition-transform group-hover:-rotate-12" strokeWidth={1.8} />
+      <span className="grid size-10 place-items-center overflow-hidden rounded-full bg-[#FAF9F5] shadow-sm ring-1 ring-black/5">
+        <img
+          src="/Raised%20Fist%20Emblem%20with%20Colorful%20Arcs.png"
+          alt=""
+          className="size-full object-cover transition-transform duration-300 group-hover:scale-105"
+        />
       </span>
       <span className={`text-sm font-semibold tracking-[0.13em] ${light ? 'text-white' : 'text-[#173D31]'}`}>
         SANKALP <span className={light ? 'text-[#E6A23C]' : 'text-[#A66B12]'}>TRUST</span>

@@ -8,9 +8,9 @@
   "theme_color": "#174D3A",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/Raised%20Fist%20Emblem%20with%20Colorful%20Arcs.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
