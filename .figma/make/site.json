@@ -1,0 +1,10 @@
+{
+  "description": "A premium Coming Soon website for Sankalp Trust introduces its community-focused mission, shares its purpose, and helps supporters connect and follow its launch.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
